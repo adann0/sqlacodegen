@@ -6,7 +6,7 @@ import re
 import sys
 from collections import defaultdict
 from importlib import import_module
-from inspect import ArgSpec
+from inspect import getfullargspec as ArgSpec
 from keyword import iskeyword
 
 import sqlalchemy
