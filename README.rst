@@ -28,7 +28,7 @@ Installation
 
 To install, do::
 
-    pip install sqlacodegen
+    pip install git+https://github.com/adann0/sqlacodegen
 
 
 Example usage
